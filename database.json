@@ -28,5 +28,10 @@
     "number": "01151663585",
     "password": "zimmreseller",
     "status": "active"
+  },
+  {
+    "number": "601151663585",
+    "password": "Azimmreseller02",
+    "status": "active"
   }
 ]
